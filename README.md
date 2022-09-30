@@ -22,3 +22,6 @@ pip install -r requirements.txt
 
 line 66 source <pre>with open('admin.txt','r') as wordlist:</pre> list.txt Or Change to the desired file
 
+# Features
+
+<h4>1.Find the language and framework of the site  <i>Coming Soon</i></h4>
