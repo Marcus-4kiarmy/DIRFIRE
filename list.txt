@@ -1,0 +1,9 @@
+/wp-admin
+/wp-login
+/wplogin
+/wp-login.php
+/xlogin
+/login
+/login1
+/cpanel
+/cPanel
